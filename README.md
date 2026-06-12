@@ -1,9 +1,6 @@
 # Hello 👋, I'm Barış
 ### Frontend developer
 
-## Contact Me
-<p><a href="https://www.instagram.com/xbar1s/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
-
 ## Skills
 
 <p align="left">
